@@ -1,8 +1,8 @@
 {
   "name": "medicalfileyo",
-  "homepage": "http://medicalfileyo.github.com/home",
+  "homepage": "http://medicalfileyo.github.io/home",
   "private": false,
-  "entry":"src/index.js",
+  "entry": "src/index.js",
   "scripts": {
     "build": "react-scripts build",
     "eject": "react-scripts eject",
